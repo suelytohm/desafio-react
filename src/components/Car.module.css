@@ -1,0 +1,12 @@
+.card {
+    border: 1px solid orange;
+    border-radius: 15px;
+    padding: 10px 50px;
+    margin: 5px;
+
+}
+
+.card:hover {
+    background-color: orange;
+    color: #fff;
+}

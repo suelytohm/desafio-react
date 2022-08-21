@@ -37,3 +37,10 @@
     transform: rotate(360deg);
   }
 }
+
+
+h1 {
+  color: orange;
+  background-color: #000;
+  padding: 15px;
+}
